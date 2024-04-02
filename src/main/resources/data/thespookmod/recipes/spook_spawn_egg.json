@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:grass"
+    }
+
+},
+  "result":
+  {
+    "item": "thespookmod:spook_spawn_egg",
+    "count": 1,
+    "data": 0
+  }
+}

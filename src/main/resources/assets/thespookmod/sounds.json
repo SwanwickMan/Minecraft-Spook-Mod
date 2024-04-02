@@ -1,0 +1,11 @@
+{
+  "scary_sound": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "thespookmod:spooky",
+        "stream": false
+      }
+    ]
+  }
+}
